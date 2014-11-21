@@ -1,0 +1,9 @@
+H:\Web Design\Visual Studio\Website Example 1\Website Example 1\bin\Website Example 1.dll.config
+H:\Web Design\Visual Studio\Website Example 1\Website Example 1\bin\Website Example 1.dll
+H:\Web Design\Visual Studio\Website Example 1\Website Example 1\bin\Website Example 1.pdb
+H:\Web Design\Visual Studio\Website Example 1\Website Example 1\bin\Website Example 1.xml
+H:\Web Design\Visual Studio\Website Example 1\Website Example 1\obj\Debug\Website_Example_1.Resources.resources
+H:\Web Design\Visual Studio\Website Example 1\Website Example 1\obj\Debug\Website Example 1.vbproj.GenerateResource.Cache
+H:\Web Design\Visual Studio\Website Example 1\Website Example 1\obj\Debug\Website Example 1.dll
+H:\Web Design\Visual Studio\Website Example 1\Website Example 1\obj\Debug\Website Example 1.xml
+H:\Web Design\Visual Studio\Website Example 1\Website Example 1\obj\Debug\Website Example 1.pdb

@@ -1,0 +1,33 @@
+﻿body {
+    background-color:#666;
+    color: #000305;
+    font-family:Arial, 'Lucida Sans Unicode';
+    font-size:87.5%;
+    text-align:left;
+    line-height: 1.5;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color:#cf5c3f;
+}
+
+a:hover, a:active {
+    background-color:#cf5c3f;
+    color:#fff;
+}
+
+.body {
+    margin: 0 auto;
+    width: 70%;
+    clear: both;
+}
+
+.mainHeader img {
+    width:30%;
+    height: auto;
+    margin: 2% 0;
+}
