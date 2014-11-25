@@ -31,3 +31,17 @@ a:hover, a:active {
     height: auto;
     margin: 2% 0;
 }
+#one
+{
+width:400px;
+height:auto;
+background-color:grey;
+float:left;
+}
+#two
+{
+width:400px;
+height:auto;
+background-color:grey;
+float:right;
+}
